@@ -1,4 +1,4 @@
-# Quiz Game on Programming Languages
+# Quiz App
 
 ## Overview
 This interactive quiz game is designed to help students gain a fundamental understanding of different programming languages. The game consists of multiple rounds, providing users with a structured approach to testing and improving their knowledge. If a user fails the test, they will receive a link to relevant study material for preparation. Successful users will be given additional assignments to further enhance their skills.
