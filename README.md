@@ -13,16 +13,16 @@ This interactive quiz game is designed to help students gain a fundamental under
 
 ## Screenshots
 
-### Main Menu
+### Signup Page
 ![Screenshot 2025-04-03 203725](https://github.com/user-attachments/assets/12f2a5f0-daec-4a52-809e-695b983071b8)
 
-### Quiz Interface
+### Login Page
 ![Screenshot 2025-04-03 203837](https://github.com/user-attachments/assets/c31f0370-1554-48f3-ae32-b12ca97269c4)
 
-### Question Panel
+### Main Menu
 ![Screenshot 2025-04-03 203907](https://github.com/user-attachments/assets/9e6bb7bf-e7d6-4720-ba2f-5bf8e01fe6fc)
 
-### Scoreboard
+### Sample Question
 ![Screenshot 2025-04-03 204011](https://github.com/user-attachments/assets/33d8b1a9-3269-45fd-b263-bc293abff367)
 
 ## Installation
