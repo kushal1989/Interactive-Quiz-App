@@ -25,8 +25,13 @@ This interactive quiz game is designed to help students gain a fundamental under
 ### Sample Question
 ![Screenshot 2025-04-03 204011](https://github.com/user-attachments/assets/33d8b1a9-3269-45fd-b263-bc293abff367)
 
-## Installation
+### Usage
+1.Start the game and enter your name.
 
-Clone the repository:
-```sh
-git clone https://github.com/your-repo/quiz-game.git
+2.Answer three warm-up questions to qualify for the challenge round.
+
+3.If you pass, proceed to the challenge round.
+
+4.View your final score and compare it with previous attempts.
+
+5.Retry if necessary and use the provided learning resources to improve.
